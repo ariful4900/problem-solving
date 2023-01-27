@@ -6,3 +6,7 @@
 ### Recursion
 - [x] 14
 - [x] 15
+- [x] 16
+### Seaching Algorithms
+- [x] 17
+
