@@ -8,5 +8,6 @@
 - [x] 15
 - [x] 16
 ### Seaching Algorithms
-- [x] 17
+- [x] 17 Linear Search
+
 
