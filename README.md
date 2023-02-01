@@ -9,5 +9,8 @@
 - [x] 16
 ### Seaching Algorithms
 - [x] 17 Linear Search
+- [x] 18 Binary Search
+### Sorting Algorithms
+- [x] 19 Sorting Algorithms
 
 
