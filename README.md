@@ -12,5 +12,6 @@
 - [x] 18 Binary Search
 ### Sorting Algorithms
 - [x] 19 Sorting Algorithms
+- [x] 20 BubbleSort
 
 
